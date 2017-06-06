@@ -1,0 +1,52 @@
+html {
+  font-family: Verdana;
+}
+
+body {
+  background-color: black;
+}
+
+h1{
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+  padding-bottom: 5px;
+}
+
+a {
+  display: block;
+  text-align: center;
+  color: aquamarine;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+video,
+img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+video {
+  padding-top: 1.4em;
+  padding-bottom: 0.4em;
+}
+p {
+  text-align: center;
+  font-size: 21px;
+  color: gray;
+}
+
+h3 {
+  text-align: right;
+  color: gray;
+}
